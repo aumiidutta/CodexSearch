@@ -1,2 +1,49 @@
-# Data-Hub
+# Data Hub
+
+<div align="center">
+<img src="">
+</div>
+
+## About the project
 code search engine
+
+## Features
+
+- [x] The commands to use the bots can be seen by the participants
+- [x] Bot has all the answer to the FAQ's related to challenge
+- [x] Bot has an about which introduces it to the participants
+- [x] Bot greets the participants
+- [x] Participants can set reminders for daily post or revoke the reminder as per their wish
+- [x] The list of eligible participants can be exported in .doc format for sharing or for further editing as per need **only by the moderator(s)** 
+- [x] The participant can register for the challenge
+- [x] The participant can check if they're eligible for the challenge
+- [x] The bot can check if a post was uploaded within the given time frame for the daily post
+- [x] If someone misses to post one day the participant will be marked as ineligible for rewards
+- [x] **Only the moderator(s)** can distribute tokens amongst the eligible participants
+
+## Tech stack
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+## Why choose our project?
+
+
+
+## Team name
+
+Data Pirates
+
+## Contributors
+
+- [Aditya D.](https://github.com/adi271001)
+- [Saumili Dutta](https://github.com/aumii01codes)
+
+## Demo
+
+
