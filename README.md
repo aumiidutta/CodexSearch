@@ -1,11 +1,11 @@
 # Data Hub
 
 <div align="center">
-<img src="https://github.com/adi271001/Data-Hub/assets/116259393/724d0de4-4267-4554-ae5f-e6af35322651">
+<img src="https://github.com/adi271001/Data-Hub/assets/116259393/8488a420-c7b1-405f-8323-d8961f9e2123">
 </div>
 
 ## About the project
-code search engine
+Code Search Engine
 
 ## Features
 
@@ -19,13 +19,11 @@ code search engine
 
 ## Tech stack
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Python
+- Javascript
+- Css3
+- Tailwind
+- React
 
 ## Why choose our project?
 
