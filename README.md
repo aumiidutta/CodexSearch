@@ -1,11 +1,11 @@
-# Data Hub
+# CodexSearch
 
 <div align="center">
 <img src="https://github.com/adi271001/Data-Hub/assets/116259393/8488a420-c7b1-405f-8323-d8961f9e2123">
 </div>
 
 ## About the project
-Code Search Engine
+This is an open source Code Search Engine developed by our team to search code from th
 
 ## Features
 
