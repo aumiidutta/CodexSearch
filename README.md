@@ -5,17 +5,12 @@
 </div>
 
 ## About the project
-This is an open source Code Search Engine developed by our team to search code from th
+This is an open source Codebase Search Engine developed by our team which can be used to search code from large codebases.
 
 ## Features
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Any code snippets can be searched in any language
+- [x] Coding related questions can also be searched
 
 ## 💻 Tech stack
 
@@ -24,8 +19,6 @@ This is an open source Code Search Engine developed by our team to search code f
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
 
 ## Why choose our project?
 
