@@ -1,7 +1,7 @@
 # CodexSearch
 
 <div align="center">
-<img src="https://github.com/adi271001/Data-Hub/assets/116259393/8488a420-c7b1-405f-8323-d8961f9e2123">
+<img src="https://github.com/adi271001/CodexSearch/assets/116259393/dddb0a65-81ff-4d90-a122-eb733e3c79ed">
 </div>
 
 ## About the project
@@ -31,4 +31,4 @@ This is an open source Codebase Search Engine developed by our team which can be
 
 ## Demo
 
-https://github.com/adi271001/Data-Hub/assets/116259393/fdaf6eb9-0917-4e49-bbd5-d2894340730f
+https://github.com/adi271001/CodexSearch/assets/116259393/59fb5c79-cdae-4f89-b804-50a668a499c5
