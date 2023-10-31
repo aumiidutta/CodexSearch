@@ -20,13 +20,9 @@ This is an open source Codebase Search Engine developed by our team which can be
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Why choose our project?
-
-
-
 ## Team name
 
-Data Pirates
+**Data Pirates**
 
 ## Contributors
 
@@ -35,4 +31,4 @@ Data Pirates
 
 ## Demo
 
-
+https://github.com/adi271001/Data-Hub/assets/116259393/fdaf6eb9-0917-4e49-bbd5-d2894340730f
